@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0dc143&height=120&section=header"/>
+
 <div align="center">
   <h1> Projeto Eclipse Hotel 🏨 </h1>
 </div>
@@ -41,3 +43,5 @@ Para mais informações ou dúvidas sobre o projeto, entre em contato com:
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0dc143&height=120&section=footer"/>
